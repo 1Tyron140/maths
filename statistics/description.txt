@@ -1,0 +1,10 @@
+- statistiques_descriptive.py
+
+This file calculate for a list that the user input: the average, median value, variance, standard deviation, expectation and more.
+The user just have to run the script and enter value separated by a coma ",".
+
+
+- conversion-binaire.py 
+
+This file convert an int number into a binary
+Later i will allow to convert float and negatives
