@@ -42,6 +42,6 @@ Alors en écrivant les fonctions dans le code en avance avec print(‘function()
 ![shell_2](https://github.com/1Tyron140/maths/blob/main/images/screenshots/RunScriptInShell_11.png?raw=true "shell_22")
 
 Voila maintenant vous pourrez aller plus vite dans le shell.
-
+ 
 
 
