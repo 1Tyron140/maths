@@ -2,7 +2,7 @@ Dans ce fichier je vais expliquer comment utiliser l'invite de commande (shell) 
 
 # Lancer un programme plus rapidement dans le shell 
 
-Sur Casio, lorsqu’on exécute un programme en python il n’est lancé qu’une fois. Et à la fin de celui-ci on doit repartir dans l’explorateur et relancer le programme ou réécrire la fonction à la main (sauf si on utilise une boucle while):
+Sur Casio, lorsqu’on exécute un programme en python il n’est lancé qu’une fois. Et à la fin de celui-ci on doit repartir dans l’explorateur et relancer le programme ou réécrire la fonction à la main (sauf si on utilise une boucle while). Je vais vous montrer comment contourner ca:
 
 *Voici le code du programme*
 
@@ -35,12 +35,12 @@ Hello a bien été affiché
 Alors en écrivant les fonctions dans le code en avance avec print(‘function()’), on peut travailler plus rapidement:
 
 ![code_2](https://github.com/1Tyron140/maths/blob/main/images/screenshots/RunScriptInShell_10.png?raw=true "code_2")
-« hello() » et affiché et est prêt à être copié collé.
+« hello() » est affiché et est prêt à être copié collé.
 
 
-![shell_2](https://github.com/1Tyron140/maths/blob/main/images/screenshots/RunScriptInShell_11.png?raw=true "shell_22)
+![shell_2](https://github.com/1Tyron140/maths/blob/main/images/screenshots/RunScriptInShell_11.png?raw=true "shell_22")
 
-Voila maintenant vous pourre aller plus vite dans le shell.
+Voila maintenant vous pourrez aller plus vite dans le shell.
 
 
 
