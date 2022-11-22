@@ -21,6 +21,7 @@ Sur Casio, lorsqu’on exécute un programme en python il n’est lancé qu’un
 *Je peux donc utiliser les fonctions du programmes en les recrivant*
 
 ![hello](https://github.com/1Tyron140/maths/blob/main/images/screenshots/RunScriptInShell_5.png?raw=true "utilisation de la fonction hello()")
+
 Hello a bien été affiché
 
 *En remontant avec le flèches dans les autres lignes, on peut copier coller un ligne avec exe ou enter selon le modèle*
