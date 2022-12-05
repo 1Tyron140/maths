@@ -60,7 +60,6 @@ def bintohex(s,nombre): #s pour separateur soit la virgule ou le point
 
                 result = result + "." + result_2 + "F"
                 return result
-            print(result)
             i+=1
 
     result = result + "." + result_2
